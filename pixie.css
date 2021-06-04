@@ -1,0 +1,12 @@
+img{
+width:100px;
+height:120px;
+border:2px solid #0077ff;
+border-radius: 50%;
+ cursor: pointer;
+ transition: 0.8s;
+ border-spacing: 10px 50px;
+}
+ 
+
+
